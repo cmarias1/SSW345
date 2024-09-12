@@ -1,6 +1,6 @@
 # SSW345
 
-[Link to homework manuak] (https://github.com/cmarias1/SSW345/blob/main/Homework.pdf)
+Link to homework manual: https://github.com/cmarias1/SSW345/blob/main/Homework.pdf
 
 # Homework To-Do
 
